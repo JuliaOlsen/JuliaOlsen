@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuliaOlsen
-- 👀 I’m interested in robotics and control!
+- 👀 I’m interested in robotics!
 - 🌱 I’m currently studying mechanical engineering at the University of Utah
 - 📫 olsen.julia.d@gmail.com
 
